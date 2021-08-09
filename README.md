@@ -9,3 +9,8 @@ When the website needs to generate new images, it makes a call to generator.py. 
 
 
 The website is using a flask app to run. The code for the flask app is located in app.py.
+
+
+The data came from the following two sources:
+https://github.com/bchao1/Anime-Face-Dataset
+https://www.kaggle.com/soumikrakshit/anime-faces
